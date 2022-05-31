@@ -1,3 +1,6 @@
+This is the sample project from Max Angular course [Section 13: Observable](https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/14466290#notes).
+
+
 # NgCompleteGuideUpdate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
